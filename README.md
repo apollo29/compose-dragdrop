@@ -10,3 +10,6 @@
 - https://github.com/Calvin-LL/Reorderable
 - https://github.com/aclassen/ComposeReorderable
 - https://github.com/numq/drag-and-drop
+- https://medium.com/@gregkorossy/hacking-lazylist-in-android-jetpack-compose-38afacb3df67
+- https://medium.com/@mousaieparniyan/building-a-draggable-lazy-column-in-jetpack-compose-372e4783d964
+- https://dev.to/mardsoul/how-to-create-lazycolumn-with-drag-and-drop-elements-in-jetpack-compose-part-1-4bn5
